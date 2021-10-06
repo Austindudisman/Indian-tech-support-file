@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+}
+.topnav a{
+    text-decoration: none;
+    font-size: 23px;
+    font-family: calibri;
+    color: cornsilk;
+    padding-left: 25px;
+    padding-right: 25px;
+    transition: 0.3s;
+}
+ 
+.topnav{
+    background-color: rgb(0, 0, 66);
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+ 
+.topnav a:hover{
+    background-color: red;
+    padding: 13px 25px 13px 25px;
+}
+.active{
+    background-color: blue;
+    padding: 13px 25px 13px 25px;
+}
+
+body{
+    background-image:url(https://media.istockphoto.com/photos/happy-indian-young-call-center-executive-picture-id502005428?k=6&m=502005428&s=612x612&w=0&h=3k1wEsrNe7wNRb2K-p3er1vrpmaTvTHW4mD1lQPcOdg=)
